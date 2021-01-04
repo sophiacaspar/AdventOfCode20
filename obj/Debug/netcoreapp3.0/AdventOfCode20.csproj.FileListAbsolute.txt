@@ -1,0 +1,16 @@
+C:\dev\repos\advent-of-code\AdventOfCode20\bin\Debug\netcoreapp3.0\AdventOfCode20.exe
+C:\dev\repos\advent-of-code\AdventOfCode20\obj\Debug\netcoreapp3.0\AdventOfCode20.csprojAssemblyReference.cache
+C:\dev\repos\advent-of-code\AdventOfCode20\obj\Debug\netcoreapp3.0\AdventOfCode20.AssemblyInfoInputs.cache
+C:\dev\repos\advent-of-code\AdventOfCode20\obj\Debug\netcoreapp3.0\AdventOfCode20.AssemblyInfo.cs
+C:\dev\repos\advent-of-code\AdventOfCode20\bin\Debug\netcoreapp3.0\AdventOfCode20.deps.json
+C:\dev\repos\advent-of-code\AdventOfCode20\bin\Debug\netcoreapp3.0\AdventOfCode20.runtimeconfig.json
+C:\dev\repos\advent-of-code\AdventOfCode20\bin\Debug\netcoreapp3.0\AdventOfCode20.runtimeconfig.dev.json
+C:\dev\repos\advent-of-code\AdventOfCode20\bin\Debug\netcoreapp3.0\AdventOfCode20.dll
+C:\dev\repos\advent-of-code\AdventOfCode20\bin\Debug\netcoreapp3.0\AdventOfCode20.pdb
+C:\dev\repos\advent-of-code\AdventOfCode20\bin\Debug\netcoreapp3.0\xunit.abstractions.dll
+C:\dev\repos\advent-of-code\AdventOfCode20\bin\Debug\netcoreapp3.0\xunit.assert.dll
+C:\dev\repos\advent-of-code\AdventOfCode20\bin\Debug\netcoreapp3.0\xunit.core.dll
+C:\dev\repos\advent-of-code\AdventOfCode20\bin\Debug\netcoreapp3.0\xunit.execution.dotnet.dll
+C:\dev\repos\advent-of-code\AdventOfCode20\obj\Debug\netcoreapp3.0\AdventOfCode20.csproj.CopyComplete
+C:\dev\repos\advent-of-code\AdventOfCode20\obj\Debug\netcoreapp3.0\AdventOfCode20.dll
+C:\dev\repos\advent-of-code\AdventOfCode20\obj\Debug\netcoreapp3.0\AdventOfCode20.pdb
